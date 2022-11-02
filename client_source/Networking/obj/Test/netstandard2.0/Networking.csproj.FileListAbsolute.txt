@@ -1,0 +1,9 @@
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Networking\bin\Test\netstandard2.0\Networking.deps.json
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Networking\bin\Test\netstandard2.0\Networking.dll
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Networking\bin\Test\netstandard2.0\Networking.pdb
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Networking\obj\Test\netstandard2.0\Networking.csprojAssemblyReference.cache
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Networking\obj\Test\netstandard2.0\Networking.AssemblyInfoInputs.cache
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Networking\obj\Test\netstandard2.0\Networking.AssemblyInfo.cs
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Networking\obj\Test\netstandard2.0\Networking.csproj.CoreCompileInputs.cache
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Networking\obj\Test\netstandard2.0\Networking.dll
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Networking\obj\Test\netstandard2.0\Networking.pdb

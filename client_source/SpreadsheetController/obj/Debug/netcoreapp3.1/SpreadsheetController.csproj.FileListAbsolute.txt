@@ -1,0 +1,5 @@
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\SpreadsheetController\bin\Debug\netcoreapp3.1\SpreadsheetController.deps.json
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\SpreadsheetController\bin\Debug\netcoreapp3.1\SpreadsheetController.dll
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\SpreadsheetController\obj\Debug\netcoreapp3.1\SpreadsheetController.csprojAssemblyReference.cache
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\SpreadsheetController\obj\Debug\netcoreapp3.1\SpreadsheetController.AssemblyInfoInputs.cache
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\SpreadsheetController\obj\Debug\netcoreapp3.1\SpreadsheetController.AssemblyInfo.cs

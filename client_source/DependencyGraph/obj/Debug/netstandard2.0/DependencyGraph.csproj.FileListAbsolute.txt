@@ -1,0 +1,8 @@
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\DependencyGraph\bin\Debug\netstandard2.0\DependencyGraph.deps.json
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\DependencyGraph\bin\Debug\netstandard2.0\DependencyGraph.dll
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\DependencyGraph\bin\Debug\netstandard2.0\DependencyGraph.pdb
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\DependencyGraph\obj\Debug\netstandard2.0\DependencyGraph.AssemblyInfoInputs.cache
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\DependencyGraph\obj\Debug\netstandard2.0\DependencyGraph.AssemblyInfo.cs
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\DependencyGraph\obj\Debug\netstandard2.0\DependencyGraph.csproj.CoreCompileInputs.cache
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\DependencyGraph\obj\Debug\netstandard2.0\DependencyGraph.dll
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\DependencyGraph\obj\Debug\netstandard2.0\DependencyGraph.pdb

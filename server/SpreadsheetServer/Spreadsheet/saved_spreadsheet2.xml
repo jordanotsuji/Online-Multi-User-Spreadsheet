@@ -1,0 +1,62 @@
+<spreadsheet>
+    <cellState>
+        <name>A1</name>
+        <result type="2">5</result>
+        <fromRevert>false</fromRevert>
+    </cellState>
+    <cellState>
+        <name>A2</name>
+        <result type="2">4</result>
+        <fromRevert>false</fromRevert>
+    </cellState>
+    <cellState>
+        <name>A3</name>
+        <result type="2">3</result>
+        <fromRevert>false</fromRevert>
+    </cellState>
+    <cellState>
+        <name>A4</name>
+        <result type="2">1</result>
+        <fromRevert>false</fromRevert>
+    </cellState>
+    <cellState>
+        <name>A1</name>
+        <result type="2">10</result>
+        <fromRevert>false</fromRevert>
+    </cellState>
+    <cellState>
+        <name>C1</name>
+        <result type="2">60</result>
+        <fromRevert>false</fromRevert>
+    </cellState>
+    <cellState>
+        <name>A1</name>
+        <result type="1">=A2</result>
+        <fromRevert>false</fromRevert>
+    </cellState>
+    <cellState>
+        <name>A2</name>
+        <result type="2">4</result>
+        <fromRevert>false</fromRevert>
+    </cellState>
+    <cellState>
+        <name>A3</name>
+        <result type="2">3</result>
+        <fromRevert>false</fromRevert>
+    </cellState>
+    <cellState>
+        <name>A4</name>
+        <result type="2">1</result>
+        <fromRevert>false</fromRevert>
+    </cellState>
+    <cellState>
+        <name>A1</name>
+        <result type="2">10</result>
+        <fromRevert>false</fromRevert>
+    </cellState>
+    <cellState>
+        <name>C1</name>
+        <result type="2">60</result>
+        <fromRevert>false</fromRevert>
+    </cellState>
+</spreadsheet>

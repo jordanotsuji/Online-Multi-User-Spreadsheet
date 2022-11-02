@@ -1,0 +1,14 @@
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Spreadsheet\bin\Debug\netstandard2.0\Spreadsheet.deps.json
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Spreadsheet\bin\Debug\netstandard2.0\Spreadsheet.dll
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Spreadsheet\bin\Debug\netstandard2.0\Spreadsheet.pdb
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Spreadsheet\bin\Debug\netstandard2.0\DependencyGraph.dll
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Spreadsheet\bin\Debug\netstandard2.0\Formula.dll
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Spreadsheet\bin\Debug\netstandard2.0\DependencyGraph.pdb
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Spreadsheet\bin\Debug\netstandard2.0\Formula.pdb
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Spreadsheet\obj\Debug\netstandard2.0\Spreadsheet.csprojAssemblyReference.cache
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Spreadsheet\obj\Debug\netstandard2.0\Spreadsheet.AssemblyInfoInputs.cache
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Spreadsheet\obj\Debug\netstandard2.0\Spreadsheet.AssemblyInfo.cs
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Spreadsheet\obj\Debug\netstandard2.0\Spreadsheet.csproj.CoreCompileInputs.cache
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Spreadsheet\obj\Debug\netstandard2.0\Spreadsheet.csproj.CopyComplete
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Spreadsheet\obj\Debug\netstandard2.0\Spreadsheet.dll
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Spreadsheet\obj\Debug\netstandard2.0\Spreadsheet.pdb

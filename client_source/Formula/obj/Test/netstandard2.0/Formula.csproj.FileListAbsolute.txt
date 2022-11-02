@@ -1,0 +1,9 @@
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Formula\bin\Test\netstandard2.0\Formula.deps.json
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Formula\bin\Test\netstandard2.0\Formula.dll
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Formula\bin\Test\netstandard2.0\Formula.pdb
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Formula\obj\Test\netstandard2.0\Formula.csprojAssemblyReference.cache
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Formula\obj\Test\netstandard2.0\Formula.AssemblyInfoInputs.cache
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Formula\obj\Test\netstandard2.0\Formula.AssemblyInfo.cs
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Formula\obj\Test\netstandard2.0\Formula.csproj.CoreCompileInputs.cache
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Formula\obj\Test\netstandard2.0\Formula.dll
+C:\Users\alanb\Source\Repos\3505Final\SpreadsheetClient\Formula\obj\Test\netstandard2.0\Formula.pdb
