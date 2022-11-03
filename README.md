@@ -8,4 +8,5 @@ Features:
 - Tested for high performance with up to 5 concurrent users
 
 Instructions:
-- 
+- Run the server located at server/SpreadsheetServer/main.cpp
+- Run the spreadsheet executable (located at client_executable/SpreadsheetGUI) and connect to the server host's address 
